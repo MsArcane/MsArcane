@@ -1,7 +1,7 @@
 - 👋🏽 Hi, I’m @MsArcane (Jess)
-- 👀 I’m interested in creating. I make music and art. 
+- 👀 I love creating. I make music and art.
 - 🌱 I’m currently learning python! Also GDscript.
-- 💞️ I’m looking to collaborate on games. I'd love to collab on games. I'm currently working on something with my sister and brother.
+- 💞️ I’m looking to collaborate on games. 
 - 📫 How to reach me: Twitter: @KurtuMusic
 
 <!---
