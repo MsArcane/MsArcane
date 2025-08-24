@@ -2,7 +2,10 @@ Hey, I’m @MsArcane (Jess). I love creating. I make music and art. I also like 
 
 I like using ZyndAddSubFx in LMMS to make music. I also like using MuseScore 3. I'm trying to learn to Ardour6 by using Unfa's tutorials on YouTube. 🙏🏾
 
-Links: https://kurtu.start.page/) 
+Links: 
+
+My home on the World Wide Web 
+https://kurtu.com.au/
 
 <!---
 MsArcane/MsArcane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
