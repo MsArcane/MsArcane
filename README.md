@@ -7,6 +7,8 @@ Links:
 My home on the World Wide Web 
 https://kurtu.com.au/
 
+Itch.io: https://msarcane.itch.io/
+
 <!---
 MsArcane/MsArcane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
